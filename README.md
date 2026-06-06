@@ -10,7 +10,7 @@ This is a WhatsApp bot built using the Baileys library for group management, inc
 
 <div align="center"> 
   <!-- Your branded bot image -->
-  <img src="https://i.postimg.cc/Z5YZCnmg/bot-image.png" alt="JINX-MD-V1.1.0" height="300" />
+  <img src="https://i.postimg.cc/5tRn87C5/bot-image.png" alt="JINX-MD-V1.1.0" height="300" />
 </div>
 
 
