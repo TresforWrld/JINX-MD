@@ -9,7 +9,7 @@ This is a WhatsApp bot built using the Baileys library for group management, inc
 </div> 
 
 <div align="center"> 
-  <a href=""> 
+  <a href="https://github.com/TresforWrld/JINX-MD/main/assets/bot_image.jpg"> 
     <img src="https://github.com/TresforWrld/JINX-MD/main/assets/bot_image.jpg" alt="JINX-MD Bot" height="300"> 
   </a> 
 </div>
