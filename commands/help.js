@@ -6,7 +6,7 @@ async function helpCommand(sock, chatId, message) {
     const helpMessage = `
 ╭──────────────────────────────╮
 │ 🤖 JINX-MD
-│ 🚀 Version: ${settings.version || '1.0.0'}
+│ 🚀 Version: ${settings.version || '3.0.0'}
 │ 👑 Owner: ${settings.botOwner || 'ANICADE Tech'}
 │ 📺 YouTube: ${global.ytch}
 ╰──────────────────────────────╯
