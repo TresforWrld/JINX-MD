@@ -1,5 +1,5 @@
 /**
- * JINX-MD Bot - A WhatsApp Bot
+ * JINX-MD - WhatsApp Bot
  * Copyright (c) 2026 ANICADE Tech
  * 
  * This program is free software: you can redistribute it and/or modify
